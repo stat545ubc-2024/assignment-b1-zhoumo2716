@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/s4oIzs8K)
+# STAT 545B Assignment 1: Custom Function
+
+This repository contains code for creating custom R function for STAT 545B Assignment 1.
+
+## Contents
+In this repository, we have: 
+- **Function.Rmd**: Main RMarkdown file with function code, documentation, examples, and tests.
+- **README.md**: Overview of the project.
+- **test_output**: Output of test cases.
+
+## Project Overview
+
+- **Function**: A custom function to multiply two numbers with input validation.
+- **Testing**: Unit tests with `testthat` to check for output.
